@@ -1,0 +1,12 @@
+.navbarBtn{
+    margin: 20px;
+    color: blue;
+    height:30px;
+    border-width:2px;
+    border-radius:2px
+}
+
+
+button{
+    margin-right: 10px;
+}
